@@ -1,4 +1,0 @@
-Chocolate
-Vanilla
-Strawberry
-
