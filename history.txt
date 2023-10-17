@@ -1,0 +1,247 @@
+    1  ls
+    2  cd projects
+    3  ls
+    4  cd Zinhle-Mahlangu-648-bootcamp-exploratory-data-analysis-python
+    5  jupyter notebook
+    6  jupyter notebook
+    7  source env/Scripts/activate
+    8  jupyter notebook
+    9  ls
+   10  cd data
+   11  cd ..
+   12  ls
+   13  cd data
+   14  mv data.csv
+   15  mv --help
+   16  cp data.csv
+   17  ls
+   18  find . -name data.csv
+   19  cd ..
+   20  ls
+   21  cd Zinhle-Mahlangu-648-bootcamp-exploratory-data-analysis-python
+   22  ls
+   23  jupyter notebook
+   24  find . -name data.csv
+   25  cd ..
+   26  ls
+   27  cd data
+   28  mv ./env/Lib/site-packages/statsmodels/datasets/danish_data/data.csv
+   29  mv data.csv ../Zinhle-Mahlangu-648-bootcamp-exploratory-data-analysis-python/data/
+   30  ls
+   31  cd ..
+   32  ls
+   33  cd Zinhle-Mahlangu-648-bootcamp-exploratory-data-analysis-python
+   34  ls
+   35  mv data.csv data/
+   36  mv data.csv data
+   37  ls
+   38  cd ..
+   39  ls
+   40  cd data
+   41  ls
+   42  cd ..
+   43  ls
+   44  cd Zinhle-Mahlangu-648-bootcamp-exploratory-data-analysis-python
+   45  ls
+   46  cd ..
+   47  ls
+   48  cd notebook
+   49  mv 'Exploratory Analysis.ipynb' notebook
+   50  mv Exploratory Analysis.ipynb notebook
+   51  cd ..
+   52  cd ..
+   53  ls
+   54  cd projects
+   55  ls
+   56  cd Zinhle-Mahlangu-648-bootcamp-exploratory-data-analysis-python
+   57  ls
+   58  mkdir data
+   59  cd ..
+   60  ls
+   61  rm -r data
+   62  rm -r notebook
+   63  ls
+   64  cd Zinhle-Mahlangu-648-bootcamp-exploratory-data-analysis-python
+   65  ls
+   66  mkdir data
+   67  ls
+   68  mkdir notebooks
+   69  ls
+   70  cd data
+   71  mkdir data
+   72  jupyter notebook
+   73  cd data
+   74  ls
+   75  mkdir data
+   76  cd data
+   77  rm data
+   78  ls
+   79  mkdir data
+   80  ls
+   81  jupyter notebook
+   82  ls
+   83  mv "Exploratory Analysis.ipynb" notebooks
+   84  cd notebooks
+   85  ls
+   86  cd ..
+   87  mv data.csv data
+   88  cd data
+   89  ls
+   90  cd ..
+   91  git add .
+   92  ls
+   93  cd  Zinhle-Mahlangu-219-level-1-programming-katas-python/
+   94  ls
+   95  rm -r task1.py
+   96  ls
+   97  git checkout main
+   98  git checkout -b task/1
+   99  git checkout task/1
+  100  ls
+  101  git checkout main
+  102  git pull
+  103  git checkout task/1
+  104  touch task1.py
+  105  ls
+  106  rm -r task1.py
+  107  ls
+  108  rm -r README.md
+  109  ls
+  110  git add .
+  111  git status
+  112  git restore --staged task1.py
+  113  git status
+  114  cd Data Handling
+  115  cd datawrangling
+  116  ls
+  117  git clone git@github.com:Umuzi-org/Zinhle-Mahlangu-247-data-wrangling-python.git
+  118  jupyter notebook
+  119  pip install jupyter
+  120  jupyter notebook
+  121  git checkout -b feature
+  122  ls
+  123  cd  Zinhle-Mahlangu-247-data-wrangling-python
+  124  jupyter notebook
+  125  pip install jupyter
+  126   jupyter notebook
+  127   jupyter --version
+  128  python.exe -m pip install --upgrade pip
+  129  pip install jupyter
+  130  jupyter --version
+  131  jupyter --version
+  132  pip install jupyter
+  133  which jupyter
+  134  activate condo
+  135  git activate
+  136  cd ..
+  137  ls
+  138  git checkout
+  139  ls
+  140  git checkout feature
+  141  cd cd datawrangling
+  142  cd datawrangling
+  143  la -a
+  144  ls -a
+  145  ls
+  146  cd  Zinhle-Mahlangu-247-data-wrangling-python
+  147  ls
+  148  jupyter notebook
+  149  which jupyter
+  150  /c/Python311/Scripts/jupyter notebook
+  151  ls -d /c/Python*/Scripts
+  152  /c/Python311/Scripts/jupyter notebook
+  153  where jupyter
+  154  cd ..
+  155  checkout branch
+  156  git checkout branch
+  157  git branch
+  158  git branch -D task/1
+  159  git branch
+  160  git checkout
+  161  git checkout master
+  162  git status
+  163  ls
+  164  cd  AppData
+  165  ls
+  166  cd ..
+  167  cd  Zinhle-Mahlangu-247-data-wrangling-python
+  168  git branch
+  169  pip install jupyter
+  170  jupyter-notebook
+  171  jupyter notebook
+  172  jupyter-notebook
+  173  ls
+  174  cd ..
+  175  cd ..
+  176  cd ..
+  177  cd ..
+  178  cd projects
+  179  git checkout main
+  180  git checkout master
+  181  ls
+  182  git checkout -b main
+  183  git branch
+  184  git branch -D history
+  185  git status
+  186  git add .
+  187  git commit -m "Deleted"
+  188  git push
+  189  git branch
+  190  git status
+  191  git checkout main
+  192  git pull
+  193  git branch --set-upstream-to=origin/<branch> main
+  194  git checkout main
+  195  git branch -d history
+  196  git status
+  197  git push origin --delete history
+  198  git checkout main
+  199  git push origin --delete history
+  200  git checkout main
+  201  git rm -r .
+  202  git commit -m "Remove all files in the main branch"
+  203  git push origin main
+  204  git branch
+  205  mkdir git-basic-exercises
+  206  cd git-basic-exercises
+  207  git init
+  208  touch README.md
+  209  git status
+  210  git add README.md
+  211  git commit -m "initial commit"
+  212  git log
+  213  nano README.md
+  214  cat README.md
+  215  nano README.md
+  216  cat README.md
+  217  git status
+  218  git add README.md
+  219  git commit -m "second commit"
+  220  git log
+  221  nano README.md
+  222  git status
+  223  git add .
+  224  git commit -m "third commit"
+  225  git push
+  226  git log
+  227  git checkout -b milkshake-flavours
+  228  touch milkshakes.md
+  229  nano milkshakes.md
+  230  git checkout master
+  231  git log
+  232  git checkout 3bf57ab62054460f4ea1e424f184966e1b6f7084
+  233  cat README.md
+  234  git checkout main
+  235  git checkout master
+  236  cat README.md
+  237  git branch
+  238  git checkout milkshake-flavours
+  239  nano milkshakes.md
+  240  git status
+  241  git add milkshakes.md
+  242  git commit -m "added initial flavours"
+  243  git log
+  244  git checkout master
+  245  git checkout -b history
+  246  git log
+  247  history > history.txt
